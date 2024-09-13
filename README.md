@@ -7,9 +7,9 @@ If you want to purchase this tool, contact me via Telegram: [@alexrony21](https:
 ---
 
 ## Features:
-- **Supports phone number verification** across 206 countries.
-- **Provides carrier information** for valid and active phone numbers.
-- **Fast and accurate** lookup results.
+- **Supports phone number verification across 206 countries.**
+- **Provides carrier information for valid and active phone numbers.**
+- **Fast and accurate lookup results.**
 
 ---
 
