@@ -1,6 +1,6 @@
 # Number Carrier Checker
 
-![Image](path-to-your-image.png)
+![Image](https://raw.githubusercontent.com/thepythoncode97/Number-Carrier-Checker/main/Phone_Number_Carrier_Lookup.png)
 
 If you want to purchase this tool, contact me via Telegram: [@alexrony21](https://t.me/alexrony21)
 
